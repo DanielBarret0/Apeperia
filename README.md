@@ -9,7 +9,7 @@ Essa é um que tem como objetivo inovar ao comparar e montar aplicativos para pe
 
 ## Aprendizados
 
-Nesse projeto a principal atividade é fazer um site responsivo com pequenas mudanças no visual ao depender do tamanho da tela sendo para celular, tabelet e Desktop. Aprendi como usar os media queris para definir e fazer as mujdanças ao depende do largura disponivel no dispositivo. Recebemos um layout no figma para baixar toda parte visual necessaria e desenvolvendo ao longo do curso esse site. Esse foi um projeto feito junto ao professor.
+Nesse projeto a principal atividade é fazer um site responsivo com pequenas mudanças no visual ao depender do tamanho da tela sendo para celular, tablett e Desktop. Aprendi como usar os media queris para definir e fazer as mudanças ao depende do largura disponível no dispositivo. Recebemos um layout no figma para baixar toda a parte visual necessária e desenvolvendo ao longo do curso esse site. Esse foi um projeto feito junto ao professor.
 
 ## Deploy
 
