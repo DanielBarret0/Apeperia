@@ -15,7 +15,7 @@
 # 🖼️ Banner do VitrineDev
 <div align="center">
 
-<img src="https://github.com/DanielBarret0/Apeperia/blob/main/gif/Mobile-Apeperia.gif#vitrinedev">
+<img src="https://github.com/DanielBarret0/Apeperia/blob/main/gif/Desktop-Apeperia.gif#vitrinedev">
 </div>
 
 # Apeperia um projeto feito em uma formação na Alura
