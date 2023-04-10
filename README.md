@@ -9,6 +9,7 @@
 | ✨: Nome        | Apeperia
 | 🏷️ Tecnologias | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 | 🚀: URL         | [Apeperia](https://apeperia.bohr.io)
+| :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
 
 
 # 🖼️ Banner do VitrineDev
@@ -16,11 +17,6 @@
 
 <img src="#vitrinedev">
 </div>
-
-
-# Olá, eu sou o Daniel Barreto! 👋
-
-Tenho 22 anos sou de Aracaju/Sergipe e estou em constante evolução na minha carreira Frontend. Busco sempre praticar aquilo que aprendo em cursos e demonstro isso com alguns projetos no meu repositório no github.
 
 # Apeperia um projeto feito em uma formação na Alura
 
@@ -30,16 +26,6 @@ Essa é um que tem como objetivo inovar ao comparar e montar aplicativos para pe
 
 Nesse projeto a principal atividade é fazer um site responsivo com pequenas mudanças no visual ao depender do tamanho da tela sendo para celular, tablett e Desktop. Aprendi como usar os media queris para definir e fazer as mudanças ao depende do largura disponível no dispositivo. Recebemos um layout no figma para baixar toda a parte visual necessária e desenvolvendo ao longo do curso esse site. Esse foi um projeto feito junto ao professor.
 
-## Deploy
-
- Visite a página no Github Pages: [Apeperia](https://danielbarret0.github.io/Apeperia/)
-
-## Linguagens utilizadas
-  <div>
-  HTML <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-   CSS <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
 ## Demonstração
 
 ### Layout - Desktop
@@ -63,10 +49,3 @@ Nesse projeto a principal atividade é fazer um site responsivo com pequenas mud
   <a href="https://www.instagram.com/daniel.barret0/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/daniel.barret0/"/ target="_blank"></a>
 </p>  
-
-
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
